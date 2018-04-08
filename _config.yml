@@ -1,0 +1,18 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'City of Austin'
+tagline:          'City'
+description:      ''
+url:           https://happinessk.github.io/blah2/
+
+author:
+  name:           ''
+  url:            ''
+
+# Custom vars
+version:          0.0.0
+
+github:
+  repo:           https://happinessk.github.io/blah2/
