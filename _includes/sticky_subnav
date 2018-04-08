@@ -1,0 +1,31 @@
+<aside class="usa-width-one-third sticky sticky-subnav">
+<nav class="nav-accordion nav-subnav usa-accordion" role="navigation">
+
+  <button class="usa-accordion-button nav-accordion-button nav-accordion-button-desktop" aria-expanded="false">About</button>
+  <button class="usa-accordion-button usa-accordion-button-chevron nav-accordion-button nav-accordion-button-mobile" aria-expanded="false" aria-controls="about">About</button>
+
+  <ul id="about" class="usa-sidenav-list usa-accordion" aria-hidden="true">
+
+    <li>
+      <a class="subnav-anchor usa-current" href="/about/#our-mission">Our mission</a>
+    </li>
+
+    <li>
+      <a class="subnav-anchor" href="/about/#our-team">Our team</a>
+    </li>
+
+    <li>
+      <a class="subnav-anchor" href="/about/#history-and-funding">History and funding</a>
+    </li>
+
+    <li>
+      <a class="subnav-anchor" href="/about/#for-press">For press</a>
+    </li>
+
+    <li>
+      <a class="subnav-anchor" href="/contact/">Contact us</a>
+    </li>
+
+  </ul>
+</nav>
+    </aside>

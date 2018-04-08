@@ -1,0 +1,34 @@
+{% assign current = page.url | downcase | split: '/' %}
+
+<ul>
+  <li>
+    <a {% if current[1] == 'what-we-deliver' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/what-we-deliver/">
+      <span>Getting Started</span>
+    </a>
+  </li>
+  <li>
+    <a {% if current[1] == 'how-we-work' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/how-we-work/">
+      <span>Data liaisons & Publishers</span>
+    </a>
+  </li>
+  <li>
+    <a {% if current[1] == 'hire' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/hire/">
+      <span> Resources </span>
+    </a>
+  </li>
+  <li>
+    <a {% if current[1] == 'join' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/join/">
+      <span>About</span>
+    </a>
+  </li>
+  <!-- <li>
+    <a {% if current[1] == 'blog' or page.path contains '_posts' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/blog/">
+      <span>Blog</span>
+    </a>
+  </li> -->
+  <li>
+    <a {% if current[1] == 'join' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/join/">
+      <span>Contact Us</span>
+    </a>
+  </li>
+</ul>
