@@ -2,7 +2,7 @@
 title: Contact Us
 permalink: /join/
 layout: default-image
-image: /assets/img/page-feature/join.jpg
+image: 
 redirect_from:
   - /apply/
 ---
