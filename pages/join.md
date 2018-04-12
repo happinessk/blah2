@@ -1,5 +1,5 @@
 ---
-title: Join atx
+title: Contact Us
 permalink: /join/
 layout: default-image
 image: /assets/img/page-feature/join.jpg
