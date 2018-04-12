@@ -3,7 +3,6 @@ title: Join atx
 permalink: /join/
 layout: default-image
 image: /assets/img/page-feature/join.jpg
-lead: Now’s the time to get involved in transforming how the federal government does technology. Join the digital services movement.
 redirect_from:
   - /apply/
 ---
